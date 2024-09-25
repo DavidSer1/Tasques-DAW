@@ -1,1 +1,1 @@
-Instalacion de apache en php
+Instalacion de apache en php farem apt install php
