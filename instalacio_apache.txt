@@ -1,1 +1,1 @@
-Instalacion de apache
+Instalacion de apache primero haremos apt install apache
